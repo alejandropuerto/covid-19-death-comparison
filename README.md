@@ -1056,7 +1056,7 @@ ax.legend()
 
 
 
-![png](output_30_1.png)
+![death comparison](https://github.com/alejandropuerto/covid-19-death-comparison/blob/master/plot.png)
 
 
 
